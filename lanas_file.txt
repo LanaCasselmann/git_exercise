@@ -1,1 +1,2 @@
 This is Lana's test file
+added line
